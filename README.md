@@ -1,6 +1,4 @@
-Here is a `README.md` file for your `InvoiceContract.sol`:
 
-```markdown
 # InvoiceContract
 
 A Solidity smart contract for managing invoices using USDC (ERC20 token). The contract allows invoice creation, tracking, and payment while ensuring secure transactions.
